@@ -1,2 +1,2 @@
 # ado
-Ado, a AUR package manager based on "yay"
+Ado, an AUR package manager based on "yay".
